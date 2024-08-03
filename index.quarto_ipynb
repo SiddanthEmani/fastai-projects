@@ -1,0 +1,30 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "---\n",
+        "title: \"fastai-projects\"\n",
+        "format: html\n",
+        "---\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n",
+        "Deep Learning projects by Ramana Siddanth Emani.\n"
+      ],
+      "id": "9d9b6928"
+    }
+  ],
+  "metadata": {
+    "kernelspec": {
+      "name": "python3",
+      "language": "python",
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/siddanth/Library/Python/3.9/share/jupyter/kernels/python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 5
+}
